@@ -1,5 +1,6 @@
 ### PSR-4 Simple Logger Class
 > PSR-4 Logger Class 
+
 ```php
 <?php
     //Logger Instance
